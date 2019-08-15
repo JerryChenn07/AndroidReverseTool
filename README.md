@@ -21,6 +21,13 @@
 - 下载地址：`https://play.google.com/store/apps/details?id=org.proxydroid`
 - 作用：通过iptables将所有TCP连接重定向到代理服务器上，强制性地让APP的HTTP请求通过代理
 
+## JustTrustMe
+- 当前版本：`.2`
+- 更新时间：`2016-01-26`
+- 官方地址：`https://github.com/Fuzion24/JustTrustMe`
+- 下载地址：`https://github.com/Fuzion24/JustTrustMe/releases`
+- 作用：一个禁用SSL证书检查的Xposed模块
+
 ## Inspeckage
 - 当前版本：`2.4`
 - 更新时间：`2018-08-24`
@@ -32,7 +39,6 @@
 ## FDex2
 - 当前版本：`1.1`
 - 作用：脱壳工具
-
 
 ## DeveloperHelper(易开发)
 - 当前版本：`1.0.4`
@@ -57,7 +63,3 @@
     - 当前版本：`2.2.0`
     - 更新时间：`2019-07-30`
     - 下载地址：`https://apkpure.com/wang-vpn-%E2%9D%A4%EF%B8%8F-free-fast-stable-best-vpn-just-try-it/com.findtheway`
-
-## 百度网盘xx版
-- 当前版本：`9.4.3`
-- 作用：你懂
